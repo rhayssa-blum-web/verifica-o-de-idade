@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body{
+ background-image: url(https://topview.com.br/wp-content/uploads/2023/02/pexels-aram-diseno-7259083-drinks-faceis-para-o-carnaval.jpg);
+
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+ p{
+    font-size: larger;
+    color: aliceblue;
+    text-shadow: black 4px 5px 4px;
+    font-style: oblique;
+ }
+
+ h1{
+    color: aliceblue;
+    text-shadow: black 4px 5px 4px;
+    font-style: oblique;
+ }
+
+div{
+    text-align: center;
+    font-size: 50px;
+}
+
+footer{
+    text-align: center;
+    color: aliceblue;
+    left: 15px;
+}
